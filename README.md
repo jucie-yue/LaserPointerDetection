@@ -24,3 +24,4 @@ pip install opencv-python numpy
 
    ```bash
    git clone https://github.com/jucie-yue/LaserPointerDetection.git
+
