@@ -17,6 +17,7 @@ To install the required dependencies, run the following command:
 
 ```bash
 pip install opencv-python numpy
+```````
 
 ## How to Run
 
