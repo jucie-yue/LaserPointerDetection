@@ -18,3 +18,18 @@ To install the required dependencies, run the following command:
 ```bash
 pip install opencv-python numpy
 
+## How to Run
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/jucie-yue/LaserPointerDetection.git
+
+2.Navigate to the project directory:
+   ```bash
+   cd LaserPointerDetection
+
+3.Run the Python script:
+   ```bash
+   python laser_detection.py
+
