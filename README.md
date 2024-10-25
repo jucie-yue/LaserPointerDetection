@@ -20,8 +20,8 @@ pip install opencv-python numpy
 
 ## How to Run
 
-1. Clone the repository:
+To get started, simply follow these steps:
 
-   ```bash
-   git clone https://github.com/jucie-yue/LaserPointerDetection.git
-
+```bash
+# Clone the repository, navigate to the directory, and run the script
+git clone https://github.com/jucie-yue/LaserPointerDetection.git && cd LaserPointerDetection && python laser_detection.py
